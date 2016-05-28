@@ -1,0 +1,32 @@
+{
+  "name": "deependency-angularjs",
+  "version": "1.0.0",
+  "description": "This module allows Deependency IoC Container to consume AngularJS services.",
+  "main": "./lib",
+  "scripts": {
+    "test": "mocha test/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fabio-gariglio/deependency-angularjs.git"
+  },
+  "keywords": [
+      "deependency",
+      "angular",
+      "angularjs",
+      "ioc",
+      "inversion",
+      "of",
+      "control",
+      "container",
+      "dependency",
+      "injection",
+      "di"
+    ],
+  "author": "Fabio Gariglio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabio-gariglio/deependency-angularjs/issues"
+  },
+  "homepage": "https://github.com/fabio-gariglio/deependency-angularjs#readme"
+}
