@@ -11,22 +11,25 @@
     "url": "git+ssh://git@github.com/fabio-gariglio/deependency-angularjs.git"
   },
   "keywords": [
-      "deependency",
-      "angular",
-      "angularjs",
-      "ioc",
-      "inversion",
-      "of",
-      "control",
-      "container",
-      "dependency",
-      "injection",
-      "di"
-    ],
+    "deependency",
+    "angular",
+    "angularjs",
+    "ioc",
+    "inversion",
+    "of",
+    "control",
+    "container",
+    "dependency",
+    "injection",
+    "di"
+  ],
   "author": "Fabio Gariglio",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fabio-gariglio/deependency-angularjs/issues"
   },
-  "homepage": "https://github.com/fabio-gariglio/deependency-angularjs#readme"
+  "homepage": "https://github.com/fabio-gariglio/deependency-angularjs#readme",
+  "devDependencies": {
+    "should": "^9.0.0"
+  }
 }
